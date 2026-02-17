@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Brad Pitt - Product owner"
+    email: "BradP@eazybank.com"
+  onCallSupport:
+    - (453) 555-2222
+    - (236) 523-3333
